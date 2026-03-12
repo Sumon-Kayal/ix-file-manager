@@ -3,7 +3,7 @@
 **A powerful, privacy-respecting, GPL-3.0 Android file manager combining the best features of the FOSS ecosystem.**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![CI](https://github.com/YOUR_USERNAME/ix-file-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/ix-file-manager/actions)
+[![CI](https://github.com/Sumon-Kayal/ix-file-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/Sumon-Kayal/ix-file-manager/actions)
 [![Min SDK](https://img.shields.io/badge/min%20SDK-21%20(Android%205.0)-green)](https://developer.android.com/about/versions/lollipop)
 
 ---
