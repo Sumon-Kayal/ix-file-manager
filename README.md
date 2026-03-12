@@ -88,7 +88,7 @@ app/src/main/java/com/ixfilemanager/
 ### In Termux (Android)
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/ix-file-manager
+git clone https://github.com/Sumon-Kayal/ix-file-manager
 cd ix-file-manager
 
 # Build debug APK
